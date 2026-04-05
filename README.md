@@ -1,5 +1,7 @@
 # 📊 Financial Data Extraction Tool
 
+deployed on railway :https://openaiapiintegrationproject-production.up.railway.app/
+
 A simple and intelligent web app that extracts key financial metrics from unstructured news articles using AI + fallback logic.
 
 ---

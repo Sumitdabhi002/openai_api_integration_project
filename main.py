@@ -1,6 +1,6 @@
 import streamlit as st
 import pandas as pd
-import openai_api_integration_project.openai_helper as openai_helper
+import openai_helper 
 
 col1, col2 = st.columns([3,2])
 
